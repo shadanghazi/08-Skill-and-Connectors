@@ -35,3 +35,15 @@ on me to do.
 ### Response:
 ![Screenshot-1](Task-2/Screenshot-112.png)
 ![Screenshot-2](Task-2/Screenshot-113.png)
+
+
+## *Task 3 — Wire a Skill and Connector together*
+Created a seprate sill fro this task and Used Gmail Connector
+### Prompt:
+```
+read my last and email and use /text-summarizer  to create a summary of my email
+
+```
+### Response:
+
+
