@@ -33,5 +33,5 @@ Summarize my most recent email thread, and list anything it is waiting
 on me to do.
 ```
 ### Response:
-![Screenshot-1](Task-2/Screenshot (112).png)
-![Screenshot-2](Task-2/Screenshot (113).png)
+![Screenshot-1](Task-2/Screenshot-112.png)
+![Screenshot-2](Task-2/Screenshot-113.png)
